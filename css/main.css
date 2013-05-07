@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.resize {
+	display: block;
+	height: auto;
+	max-width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
